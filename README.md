@@ -29,7 +29,7 @@
   <a href="https://siddharths-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-    <a href="https://instagram.com/sidx._" target="_blank">
+    <a href="https://instagram.com/_sidx_._" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
     <a href="https://twitter.com/siddharth_1405" target="_blank">
