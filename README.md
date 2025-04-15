@@ -8,11 +8,9 @@
 
 <div align="center">
     
-🔭 I’m currently **working on BookBasket**
+🔭 I’m currently working on **WealthWise**
 
-🌱 I’m currently learning **Next.js, Tailwind and TypeScript**
-
-💞️ I’m looking to **collaborate on Web Development**
+💞️ I’m looking to **collaborate.**
 
 💬 Feel free to **reach me out**
 
